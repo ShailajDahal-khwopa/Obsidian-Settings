@@ -11,6 +11,7 @@ mv ./Obsidian-Settings/app.json .
 mv ./Obsidian-Settings/appereance.json .
 mv ./Obsidian-Settings/core-plugins.json .
 mv ./Obsidian-Settings/workspace.json .
-rm -rf ./Obsidian-Settings```
+rm -rf ./Obsidian-Settings
+```
 
 
